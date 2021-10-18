@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+ASUS
+[Mesh Cells]
+829,440
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:cyllinderical_horn_antenna.cst?478f7b84c8aba00553cf0edc0439ab7d?5613:numberofparameters=5:port=1>mode=1>zre=0>zim=0:::d?z?c?b?a
+[Comment]
