@@ -1,1 +1,1 @@
-This is a minor btech project done soley by Rishav Raj who is posted as an analyst in deloitte.
+Minor B.Tech Project 7th Sem on GPR system using cyllinderical horn antenna.
